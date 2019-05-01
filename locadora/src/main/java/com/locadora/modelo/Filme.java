@@ -37,7 +37,6 @@ public class Filme {
         this.nota = nota;
         this.descricao = descricao;
         this.quantidade = quantidade;
-        this.qtdCesta = qtdCesta;
     }
 
     public int getId() {
